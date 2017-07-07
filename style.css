@@ -28,8 +28,9 @@ li a:hover {
 h1 {
     font-family: fantasy;
     color: #333;
+    text-decoration: overline;
 }
 
 p {
-    color: #F6E5BE;
+    color: #621818;
 }
