@@ -24,3 +24,12 @@ li a {
 li a:hover {
     background-color: #621818;
 }
+
+h1 {
+    font-family: fantasy;
+    color: #333;
+}
+
+p {
+    color: #F6E5BE;
+}
